@@ -5,10 +5,10 @@ Purpose of the project is to recreate Google Keep using React or Next, a backend
 
 
 ### "Requirements" (More like cool stuff I want it to do)
-- [] Card/tiling view
-- [] Optional mega-card view for larger notes
-- [] Multiple notebooks/topics
-- [] Color customization
-- []Font integration with Google Fonts
+- [ ] Card/tiling view
+- [ ] Optional mega-card view for larger notes
+- [ ] Multiple notebooks/topics
+- [ ] Color customization
+- [ ] Font integration with Google Fonts
 
-Lets see where this goes! :ocatacat:
+Lets see where this goes! :octocat:
